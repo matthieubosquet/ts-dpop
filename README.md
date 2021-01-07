@@ -1,3 +1,9 @@
+⚠️ Moved to: https://github.com/solid/identity-token-verifier
+
+DO NOT USE THIS REPOSITORY!
+
+---
+
 # Solid Token Verifier
 
 [![build](https://github.com/matthieubosquet/ts-dpop/workflows/build/badge.svg?branch=main)](https://github.com/matthieubosquet/ts-dpop/actions?query=workflow%3A"build")
